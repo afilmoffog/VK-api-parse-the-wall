@@ -64,7 +64,7 @@ def main():
         'owner_id': -59857479,
         'count': 100,
         'offset': 0,
-        'access_token': 'b102ed2af696efed21c4bc65ec783b1326f526aea8014089d3b58c0f7d19c0b384af0701af46bb98147bc',
+        'access_token': '',# your token
         'version': 5.92
     }
 
